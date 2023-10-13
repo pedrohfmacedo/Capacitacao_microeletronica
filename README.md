@@ -1,5 +1,5 @@
 # HDLBits
-Este repositório contém alguns dos meus projetos de Design de Hardware do HDLBits e sua finalização 
+This repository contains some of my HDLBits Hardware Design projects and their completion
 
 #### Software
 * EDAPlaygorund (Icarus Verilog 0.10 or Cadence XCELIUM 20.09)
